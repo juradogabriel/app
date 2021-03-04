@@ -1,1 +1,1 @@
-# apt_remind_app
+# This is a script-run SMS application. It uses the Flask web framework and Twilio client server to send out a reminder text to patients with upcoming appointments and allows them to confirm or cancel their appointment. 
